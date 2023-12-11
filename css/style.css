@@ -785,7 +785,7 @@ color: #aa8453;
     padding: 60px 0;
 }
 .section-padding2 {
-    padding: 0 0 60px 0;
+    padding: 0 0 20px 0;
 }
 .section-padding h6 {
     color: #aa8453;
@@ -1070,7 +1070,7 @@ color: #aa8453;
         padding: 26px 0 26px 15px;
     }
     .nav-scroll .logo-wrapper {
-        padding: 26px 0 26px 15px;
+        padding: 6px 0 26px 15px;
         background-color: transparent;
     }
     .nav-scroll .logo-img {
@@ -2998,30 +2998,34 @@ hr {
 .images1{
     background-image: url("../img/spa/5.jpg");
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     position: relative;
+    height: 380px;
 }
 .images2{
     background-image: url("../img/spa/6.jpg");
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     position: relative;
+    height: 380px;
 }
 .images3{
     background-image: url("../img/spa/7.jpg");
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     position: relative;
+    height: 380px;
 }
 .images4{
     background-image: url("../img/spa/8.jpg");
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     position: relative;
+    height: 380px;
 }
 .services .img:hover img {
     -webkit-filter: none;
@@ -4737,7 +4741,7 @@ button.mfp-arrow {
     font-weight: 400;
     font-family: 'Barlow Condensed', sans-serif;
     text-transform: uppercase;
-    background: #ab8a62;
+    background: #222222;
     color: #fff;
     padding: 13px 22px;
     margin: 0;
@@ -4753,7 +4757,7 @@ button.mfp-arrow {
     bottom: 0;
     left: 100%;
     z-index: 1;
-    background: #222;
+    background: #90d100;
     color: #fff;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
