@@ -901,6 +901,7 @@ color: #aa8453;
 }
 .nav-scroll .logo-img {
     margin-bottom: 0px;
+    width: 125px;
 }
 .nav-scroll .logo-wrapper .logo h2 {
     font-family: 'Gilda Display', serif;
@@ -968,7 +969,7 @@ color: #aa8453;
 }
 .logo-img {
     padding: 20px 0;
-    width: 160px;
+    width: 125px;
     text-align: center;
 }
 .dropdown .nav-link i {
@@ -1074,7 +1075,7 @@ color: #aa8453;
         background-color: transparent;
     }
     .nav-scroll .logo-img {
-        width: 160px;
+        width: 115px;
     }
     .navbar .logo {
         text-align: left;
@@ -1083,7 +1084,7 @@ color: #aa8453;
     .nav-scroll .logo {}
     .logo-img {
         margin-bottom: 0px;
-        width: 160px;
+        width: 115px;
         padding: 0;
     }
     .navbar button {
