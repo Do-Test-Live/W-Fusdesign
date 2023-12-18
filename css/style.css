@@ -42,6 +42,8 @@
  
 ------------------------------------------------------- */
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 
 /* ======= Basic style ======= */
 html,
@@ -61,7 +63,7 @@ body {
     word-wrap: break-word;
 }
 body {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.75em;
@@ -69,7 +71,7 @@ body {
     overflow-x: hidden !important;
 }
 p {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.75em;
@@ -137,7 +139,7 @@ textarea {
     display: block;
     width: 100%;
     line-height: 1.5em;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #666;
@@ -794,7 +796,7 @@ color: #aa8453;
 }
 .section-subtitle {
     font-size: 15px;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-weight: 400;
     color: #79c800;
     text-transform: uppercase;
@@ -841,7 +843,7 @@ color: #aa8453;
     color: #FFF;
 }
 .navbar .navbar-nav .nav-link {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -918,7 +920,7 @@ color: #aa8453;
 }
 .nav-scroll .logo-wrapper .logo span {
     display: block;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-size: 10px;
     color: #222;
     font-weight: 400;
@@ -953,7 +955,7 @@ color: #aa8453;
 }
 .logo-wrapper .logo span {
     display: block;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-size: 10px;
     color: #fff;
     font-weight: 400;
@@ -985,7 +987,7 @@ color: #aa8453;
 }
 .navbar .dropdown-menu .dropdown-item {
     padding: 5px 0;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #222;
@@ -1196,7 +1198,7 @@ color: #aa8453;
 }
 
 .header .caption h4 {
-    font-family: 'Barlow Condensed', serif;;
+    font-family: 'Noto Sans HK Condensed', serif;;
     font-size: 15px;
     font-weight: 400;
     text-transform: uppercase;
@@ -1396,7 +1398,7 @@ hr {
 .header div.reservation .call {
     color: #fff;
     text-transform: uppercase;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-weight: 400;
     letter-spacing: 5px;
     font-size: 12px;
@@ -1546,7 +1548,7 @@ hr {
     position: relative;
 }
 .kenburns-inner .caption h4 {
-    font-family: 'Barlow Condensed', serif;
+    font-family: 'Noto Sans HK Condensed', serif;
     font-size: 15px;
     font-weight: 400;
     text-transform: uppercase;
@@ -1626,7 +1628,7 @@ hr {
 .kenburns-section div.reservation .call {
     color: #fff;
     text-transform: uppercase;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-weight: 400;
     letter-spacing: 5px;
     font-size: 12px;
@@ -1797,7 +1799,7 @@ hr {
     letter-spacing: 3px;
     background: transparent;
     border: 1px solid rgba(255,255,255,0.5);
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     padding: 10px 3px;
     line-height: 1.5em;
 }
@@ -1817,7 +1819,7 @@ hr {
     letter-spacing: 3px;
     text-transform: uppercase;
     font-size: 15px;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     display: inline;
 
         
@@ -1914,7 +1916,7 @@ hr {
     background-position: center;
 }
 .banner-header.full-height h4 {
-    font-family: 'Barlow Condensed', serif;
+    font-family: 'Noto Sans HK Condensed', serif;
     font-size: 15px;
     font-weight: 400;
     text-transform: uppercase;
@@ -1959,7 +1961,7 @@ hr {
 .banner-header h5 {
     color: #fff;
     font-size: 15px;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     text-transform: uppercase;
     letter-spacing: 6px;
     margin-bottom: 10px;
@@ -2248,7 +2250,7 @@ hr {
     letter-spacing: 3px;
     background: transparent;
     border: 1px solid rgba(255,255,255,0.5);
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     padding: 10px 3px;
     line-height: 1.5em;
 }
@@ -2279,7 +2281,7 @@ hr {
     position: relative;
     color: #fff;
     font-size: 15px;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     display: inline;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -2354,7 +2356,7 @@ hr {
 }
 /* permalink */
 .rooms1 .item .con .permalink {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-size: 15px;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -2449,12 +2451,12 @@ color: #aa8453;
 .rooms2 .caption h3 span {
     font-size: 15px;
     color: #666;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
 }
 .rooms2 .caption h6 {
     display: inline-block;
     color: #666;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-weight: 400;
     font-size: 10px;
     margin-bottom: 10px;
@@ -2492,7 +2494,7 @@ color: #aa8453;
 }
 .rooms2 .caption .info-wrapper .date {
     color: #222;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-size: 15px;
     background: transparent;
     border: 1px solid #ab8a62;
@@ -2538,7 +2540,7 @@ hr.border-2 {
     display: inline-block;
     position: relative;
     text-transform: uppercase;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-size: 15px;
     font-weight: 400;
     letter-spacing: 3px;
@@ -2660,7 +2662,7 @@ hr.border-2 {
     letter-spacing: 3px;
     background: transparent;
     border: 1px solid rgba(255,255,255,0.5);
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     padding: 10px 3px;
     line-height: 1.5em;
 }
@@ -2682,7 +2684,7 @@ hr.border-2 {
     color: #fff;
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     letter-spacing: 3px;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -2736,7 +2738,7 @@ hr.border-2 {
     color: #aa8453;
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     letter-spacing: 3px;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -3063,7 +3065,7 @@ hr {
     color: #666;
     letter-spacing: 2px;
     font-size: 10px;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     text-transform: uppercase;
     font-weight: 400;
 }
@@ -3103,7 +3105,7 @@ hr {
     font-size: 15px;
     letter-spacing: 3px;
     color: #666;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     text-transform: uppercase;
     margin-bottom: 5px;
 }
@@ -3498,7 +3500,7 @@ button.mfp-arrow {
     margin-bottom: 90px;
 }
 .testimonials-box .head-box h6 {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     color: #fff;
     font-size: 12px;
     text-transform: uppercase;
@@ -3564,7 +3566,7 @@ button.mfp-arrow {
     margin-bottom: 0px;
     padding-top: 0px;
     font-weight: 400;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     color: #fff;
     line-height: 1em;
     text-transform: uppercase;
@@ -3708,7 +3710,7 @@ button.mfp-arrow {
     width: 100%;
     background: #aa8453;
     color: #fff;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-size: 15px;
     text-decoration: none;
     line-height: 62px;
@@ -3921,7 +3923,7 @@ button.mfp-arrow {
 }
 .booking-box .head-box h6 {
     font-size: 15px;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-weight: 400;
     color: #666;
     text-transform: uppercase;
@@ -3986,7 +3988,7 @@ button.mfp-arrow {
     color: #aa8453;
 }
 .pricing-card .amount span {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-size: 15px;
     color: #666;
 }
@@ -4063,7 +4065,7 @@ button.mfp-arrow {
     color: #222;
 }
 .position-title span {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     color: #666;
     font-size: 15px;
     display: block;
@@ -4071,7 +4073,7 @@ button.mfp-arrow {
     letter-spacing: 0px;
 }
 .position-location {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-size: 15px;
     -webkit-transition: color .3s;
     transition: color .3s;
@@ -4081,7 +4083,7 @@ button.mfp-arrow {
     color: #666;
 }
 .position-location span {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-size: 15px;
     color: #222;
     display: block;
@@ -4095,7 +4097,7 @@ button.mfp-arrow {
     color: #222;
 }
 .position-time span {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     color: #666;
     display: block;
     text-transform: none;
@@ -4276,7 +4278,7 @@ button.mfp-arrow {
     text-align: center;
 }
 .news .item .date span {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     display: block;
     font-size: 12px;
     text-transform: uppercase;
@@ -4284,7 +4286,7 @@ button.mfp-arrow {
     color: #fff;
 }
 .news .item .date i {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     display: block;
     font-size: 24px;
     font-style: normal;
@@ -4303,7 +4305,7 @@ button.mfp-arrow {
     position: relative;
 }
 .news .item .con .category {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 400;
@@ -4385,7 +4387,7 @@ button.mfp-arrow {
     text-align: center;
 }
 .news2 .post-img .date span {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     display: block;
     font-size: 12px;
     text-transform: uppercase;
@@ -4393,7 +4395,7 @@ button.mfp-arrow {
     color: #fff;
 }
 .news2 .post-img .date i {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     display: block;
     font-size: 24px;
     font-style: normal;
@@ -4409,7 +4411,7 @@ button.mfp-arrow {
 	font-size: 12px;
     letter-spacing: 3px;
     color: #aa8453;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     text-transform: uppercase;
 	margin-bottom: 5px;
 }
@@ -4423,7 +4425,7 @@ button.mfp-arrow {
     color: #aa8453;
 }
 .news2 .post-cont .date {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     margin-top: 0px;
     font-size: 12px;
     text-align: right;
@@ -4553,7 +4555,7 @@ button.mfp-arrow {
     color: #666;
     font-weight: 400;
     border: 1px solid rgba(102,102,102,0.1);
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-size: 16px;
     border-radius: 100%;
 }
@@ -4595,7 +4597,7 @@ button.mfp-arrow {
     margin-bottom: 15px;
 }
 .post-comment-section h3 span {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-size: 12px;
     color: #666;
     margin-left: 15px;
@@ -4654,7 +4656,7 @@ button.mfp-arrow {
 
 .butn-dark a {
     font-weight: 400;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     text-transform: uppercase;
     background: #000000;
     color: #fff;
@@ -4697,7 +4699,7 @@ button.mfp-arrow {
 }
 .butn-light a {
     font-weight: 400;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     text-transform: uppercase;
     background: transparent;
     color: #fff;
@@ -4740,7 +4742,7 @@ button.mfp-arrow {
     position: relative;
     line-height: 1.2em;
     font-weight: 400;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     text-transform: uppercase;
     background: #222222;
     color: #fff;
@@ -4781,7 +4783,7 @@ button.mfp-arrow {
     position: relative;
     line-height: 1.2em;
     font-weight: 400;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     text-transform: uppercase;
     background: transparent;
     color: #fff;
@@ -4848,7 +4850,7 @@ button.mfp-arrow {
 .comming h6 {
     color: #fff;
     font-size: 15px;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
     margin-bottom: 30px;
@@ -4911,7 +4913,7 @@ button.mfp-arrow {
     top: 4px;
     right: 4px;
     cursor: pointer;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
     font-size: 15px;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -4930,7 +4932,7 @@ button.mfp-arrow {
 .go-back a {
 	color: #fff;
 	display: inline-block;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Noto Sans HK Condensed', sans-serif;
 	font-size: 15px;
     text-transform: uppercase;
 	letter-spacing: 3px;
@@ -4972,7 +4974,7 @@ button.mfp-arrow {
   padding: 20px 60px 20px 30px;
   height: 70px;
   display: block;
- font-family: 'Barlow', sans-serif;
+ font-family: 'Noto Sans HK', sans-serif;
   font-size: 15px;
   background: #f4f4f4;
   color: #666;
