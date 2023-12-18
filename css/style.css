@@ -797,12 +797,12 @@ color: #aa8453;
 .section-subtitle {
     font-size: 15px;
     font-family: 'Noto Sans HK Condensed', sans-serif;
-    font-weight: 400;
     color: #79c800;
     text-transform: uppercase;
     position: relative;
-    letter-spacing: 6px;
+    letter-spacing: 1px;
     margin-bottom: 5px;
+    font-weight: bold;
 }
 .section-subtitle span {
  color: #aa8453;
@@ -901,6 +901,9 @@ color: #aa8453;
 .nav-scroll .logo-img {
     width: 160px;
 }
+.nav-scroll .logo-img-home {
+    width: 160px;
+}
 .nav-scroll .logo-img {
     margin-bottom: 0px;
     width: 125px;
@@ -972,6 +975,11 @@ color: #aa8453;
 .logo-img {
     padding: 20px 0;
     width: 125px;
+    text-align: center;
+}
+.logo-img-home {
+    padding: 20px 0;
+    width: 180px;
     text-align: center;
 }
 .dropdown .nav-link i {
@@ -1087,6 +1095,11 @@ color: #aa8453;
     .logo-img {
         margin-bottom: 0px;
         width: 115px;
+        padding: 0;
+    }
+    .logo-img-home {
+        margin-bottom: 0px;
+        width: 150px;
         padding: 0;
     }
     .navbar button {
