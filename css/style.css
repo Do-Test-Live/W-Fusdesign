@@ -84,7 +84,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Gilda Display', serif;;
+    font-family: 'Noto Sans HK', sans-serif;
     font-weight: 400;
     line-height: 1.25em;
     margin: 0 0 20px 0;
@@ -809,7 +809,7 @@ color: #aa8453;
 }
 .section-title {
     font-size: 46px;
-    font-family: 'Gilda Display', serif;
+    font-family: 'Noto Sans HK', sans-serif;
     font-weight: 400;
     color: #222;
     position: relative;
@@ -5496,5 +5496,19 @@ select {
     .video-fullscreen-wrap .caption {
         text-align: center;
     }
+}
+
+.clients-body{
+    background-image: url('../img/client-bg.png');
+    background-size: contain;
+    background-repeat: repeat;
+    background-position: center;
+}
+
+.clients-bodyNew{
+    background-image: url('../img/client-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
