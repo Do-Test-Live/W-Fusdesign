@@ -172,11 +172,15 @@ if (!isset($_SESSION['language'])) {
                     <div class="section-title">富爾進設計國際有限公司</div>
                     <div style="text-align: justify">
                         <p>
-                            富爾進設計國際有限公司“富爾進”是一家國際專業設計和生產公司，專門從事高品質零售家具和配件生產、創意設計、空間規劃和項目管理。富爾進成立於2000年，我們一直與世界各地的一流國際品牌合作，開發和管理他們的零售項目。除了具有維護品牌股權和遵循嚴格準則的專業知識外，我們還創造了許多一瞬間就能被認出的設計，有助於提高品牌的曝光度和知名度。</p>
+                            正純設計國際有限公司（簡稱「正純」）是一家國際化的頂尖室內設計公司，專門從事創意設計、空間規劃、高品質的傢俱製作及專案管理。正純於2000年創立，一直與國際尊貴品牌合作，專注於設計新概念店鋪及專櫃並為品牌鑽研陳列細節。正純在遵守國際品牌集團的嚴格準則下，創作了無數個有效增加品牌曝光率的設計，成功提升品牌的形象及銷售業績。
+                        </p>
                         <p>
-                            富爾進深知將創意吸引人的設計與現實世界的實用性融合的重要性。我們努力通過從設計階段到安裝及以後的零售裝修需求，為客戶提供全方位的前所未有的體驗。我們還在中國設立了自己的家具生產工廠，為商店、櫃台和路演項目提供一站式服務。</p>
+                            正純明白到創新、時尚和別具風格的設計，需融合於現實生活的重要性。為了向客戶提供一個前所未有的體驗，我們從設計、生產、安裝乃至翻新護理，都一絲不苟為客戶提供專業意見及解決技術性的問題。
+                            我們亦在國內自設廠房提供傢俱生產，為各品牌的獨立店、百貨專櫃、路演和展覽等提供一站式設計及生產管理。
+                        </p>
                         <p>
-                            富爾進在香港零售市場有著穩固的存在和認可，並迅速將其業務擴展到中國內地、澳門和亞洲其他地區，以便向該地區更多的受益品牌提供獨特的富爾進體驗。</p>
+                            正純在香港的零售市場擁有穩固的地位和相當的市場佔有率，並在過往幾年間迅速擴展業務範圍至中國、澳門、泰國、澳洲及日本等亞太地區。
+                        </p>
                     </div>
                     <?php
                 } else {
@@ -347,11 +351,14 @@ if (!isset($_SESSION['language'])) {
                 <div class="col-md-12">
                     <div class="footer-bottom-inner">
                         <?php if ($_SESSION['language'] == 'CS') { ?>
-                            <p class="footer-bottom-copy-right">©2023 Fusdesign 版权所有 </br>  由 <a href="https://ngt.hk">NGT Tech</a> 提供支持</p>
+                            <p class="footer-bottom-copy-right">©2023 Fusdesign 版权所有 </br>  由 <a
+                                        href="https://ngt.hk">NGT Tech</a> 提供支持</p>
                         <?php } else if ($_SESSION['language'] == 'CT') { ?>
-                            <p class="footer-bottom-copy-right">©2023 Fusdesign 版權所有 </br>  由 <a href="https://ngt.hk">NGT Tech</a> 提供技術支援</p>
+                            <p class="footer-bottom-copy-right">©2023 Fusdesign 版權所有 </br>  由 <a
+                                        href="https://ngt.hk">NGT Tech</a> 提供技術支援</p>
                         <?php } else { ?>
-                            <p class="footer-bottom-copy-right">©2023 Fusdesign All Rights Reserved </br>  Powered By <a href="https://ngt.hk">NGT Tech</a></p>
+                            <p class="footer-bottom-copy-right">©2023 Fusdesign All Rights Reserved </br>  Powered By <a
+                                        href="https://ngt.hk">NGT Tech</a></p>
                         <?php } ?>
                     </div>
                 </div>
