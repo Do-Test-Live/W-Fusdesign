@@ -30,8 +30,8 @@
         <div class="container">
             <!-- Logo -->
             <div class="logo-wrapper">
-                <a class="logo" href="index.html"> <img src="img/logo.png" class="logo-img" alt=""> </a>
-                <!-- <a class="logo" href="index.html"> <h2>THE CAPPA <span>Luxury Hotel</span></h2> </a> -->
+                <a class="logo" href="index.php"> <img src="img/logo.png" class="logo-img" alt=""> </a>
+                <!-- <a class="logo" href="index.php"> <h2>THE CAPPA <span>Luxury Hotel</span></h2> </a> -->
             </div>
             <!-- Button -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar"
@@ -40,12 +40,12 @@
             <!-- Menu -->
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="clients.html">Clients</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="clients.php">Clients</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">Profile</a></li>
-                    <li class="nav-item"><a class="nav-link" href="mission.html">Mission</a></li>
+                    <li class="nav-item"><a class="nav-link" href="mission.php">Mission</a></li>
                     <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 
                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button"
                                                      data-bs-toggle="dropdown" data-bs-auto-close="outside"
