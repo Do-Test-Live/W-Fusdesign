@@ -62,7 +62,7 @@ if (!isset($_SESSION['language'])) {
                         <a class="nav-link" href="clients.php">
                             <?php
                             if ($_SESSION['language'] == 'CS')
-                                echo '客户端';
+                                echo '客户';
                             else if ($_SESSION['language'] == 'CT')
                                 echo '客戶端';
                             else

@@ -63,7 +63,7 @@ if (!isset($_SESSION['language'])) {
                     <a class="nav-link" href="clients.php">
                         <?php
                         if ($_SESSION['language'] == 'CS')
-                            echo '客户端';
+                            echo '客户';
                         else if ($_SESSION['language'] == 'CT')
                             echo '客戶端';
                         else
@@ -141,7 +141,15 @@ if (!isset($_SESSION['language'])) {
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-left caption mt-90">
-                <h1>Clients</h1>
+                <h1>
+                    <?php if ($_SESSION['language'] == 'CS') { ?>
+                        客户
+                    <?php } else if ($_SESSION['language'] == 'CT') { ?>
+                        客戶
+                    <?php } else { ?>
+                        Clients
+                    <?php } ?>
+                </h1>
             </div>
         </div>
     </div>
